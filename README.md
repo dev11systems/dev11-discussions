@@ -1,68 +1,67 @@
 # dev11-discussions  
-### Central hub for dev://systems — discussions, updates, roadmaps, and cross-project coordination.
+### The central hub for dev://systems — conversation, coordination, coherence.
 
 This repository hosts **all organization-wide Discussions** for the dev://systems ecosystem.  
-Use this space to share ideas, ask questions, propose changes, explore frameworks, and coordinate across all projects.
+It is the shared space where ideas converge, frameworks evolve, and new possibilities emerge.
 
 ---
 
 ## 🧭 Purpose
-The `dev11-discussions` repository acts as the **Town Square** for the organization:
 
-- Announcements & updates  
-- Cross-project planning and meta-coordination  
-- Feedback, Q&A, and brainstorming  
-- Explorations related to UCF, Liberated Intelligence, Root Sequence, and other initiatives  
-- A place to connect threads across all dev://systems work
+dev11-discussions acts as the **Town Square** for the organization:
 
-If you want to talk about *anything that spans multiple repos*, this is the right place.
+- Announcements and org updates  
+- Cross-project/session coherence  
+- Roadmaps & planning  
+- UCF, Liberated Intelligence, Root Sequence discussions  
+- Meta-coordination of dev://systems  
+- Q&A, onboarding, clarifications  
+- Free-form exploration
 
----
-
-## 🗂️ Discussion Categories
-Suggested categories (your org admins can create these inside the Discussions tab):
-
-- **Announcements** — Org-wide updates, milestones, changes  
-- **Project Ideas** — New concepts, experiments, prototypes  
-- **UCF Framework** — Discussion around Universal Coherence Framework  
-- **Liberated Intelligence** — AI/AE, autonomy, theory, architecture  
-- **Root Sequence** — Systems-level models, philosophy, narrative structures  
-- **dev://systems Meta** — Org direction, structure, naming, workflows  
-- **Help / Q&A** — Questions, onboarding, troubleshooting  
-- **Community Lounge** — General conversations that don’t fit elsewhere  
-
-Feel free to expand or rename categories as the ecosystem grows.
+If a topic spans across multiple repos, **it belongs here**.
 
 ---
 
-## 🧑‍🤝‍🧑 Who Can Participate
-Participation follows the repository’s permissions:
+## 🗂️ Categories
+A living set of discussion channels:
 
-- **Org members** can create and comment on discussions  
-- **Public** visibility (if enabled) allows others to read or participate depending on settings  
-- Discussions inherit the same access rules as this repo  
-
----
-
-## 💬 How to Use This Space
-- Start a new thread for any idea, question, or proposal  
-- Keep conversations focused but exploratory  
-- Reference related repos or issues when helpful  
-- Tag categories so discussions stay organized  
-- Be open, curious, and collaborative  
-
-This is where dev://systems evolves in the open.
+- **Announcements** — Official updates  
+- **General** — Open conversation  
+- **Ideas** — Proposals, seeds, experiments  
+- **Polls** — Collective decisions  
+- **Q&A** — Ask anything  
+- **Show & Tell** — Demos, prototypes  
+- **UCF** — Framework theory & structure  
+- **Liberated Intelligence** — AE/AGI discussions  
+- **Root Sequence** — Narrative & philosophical scaffolding  
+- **dev://systems Meta** — Org structure, naming, direction  
+- **Project Planning** — Coordination across repos  
 
 ---
 
-## 📜 Code of Conduct
-All conversations are expected to follow the organization’s Code of Conduct.
+## 💬 How to Participate
 
-If no global CoC exists yet, GitHub’s default “Community Standards” apply.
+- Start new threads freely — no idea is too early  
+- Keep titles clear and meaningful  
+- Tag the right category  
+- Cross-link repos or external docs when helpful  
+- Be curious, respectful, and constructive  
+- Summarize long conversations when possible  
 
 ---
 
-## 🜁 Vision
-dev://systems is an evolving ecosystem of interconnected ideas, frameworks, and tools.  
-This discussion space is where those threads are woven together.
+## 📜 Conduct & Guidelines
+- [Code of Conduct](./CODE_OF_CONDUCT.md)  
+- [Contributing Guidelines](./CONTRIBUTING.md)  
 
+These documents define the expectations and tone of this space.
+
+---
+
+## 🜁 The Vision
+dev://systems is an evolving ecosystem of interconnected ideas, tools, and frameworks.  
+This discussion hub is where those threads weave themselves into coherence.
+
+Welcome.  
+Explore.  
+Contribute.  
