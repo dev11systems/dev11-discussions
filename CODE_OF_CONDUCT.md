@@ -1,6 +1,6 @@
-# Code of Conduct — dev://systems
+# Code of Conduct — dev11://systems
 
-dev://systems is a collaborative ecosystem for building ideas, frameworks, and tools across many domains.  
+dev11://systems is a collaborative ecosystem for building ideas, frameworks, and tools across many domains.  
 We aim to create a space grounded in curiosity, respect, and constructive exploration.
 
 This Code of Conduct outlines expectations for all participants in discussions, issues, pull requests, and any interactions within the organization.
@@ -53,7 +53,7 @@ Actions will be taken at the discretion of maintainers to preserve a healthy env
 ---
 
 ## 📫 Reporting
-If you experience or witness a violation, please contact the organization maintainers directly via GitHub or through the preferred contact method listed on the dev://systems profile.
+If you experience or witness a violation, please contact the organization maintainers directly via GitHub or through the preferred contact method listed on the dev11://systems profile.
 
 ---
 
