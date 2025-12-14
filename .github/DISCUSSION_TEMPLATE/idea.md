@@ -18,7 +18,7 @@ How does this connect to:
 - UCF  
 - Liberated Intelligence  
 - Root Sequence  
-- Other dev://systems threads  
+- Other dev11://systems threads  
 
 ## 🛠 Next Steps
 What could happen next?
