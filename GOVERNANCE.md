@@ -1,6 +1,6 @@
-# Governance — dev://systems
+# Governance — dev11://systems
 
-dev://systems follows a lightweight governance model designed to support exploration, creativity, and coherence across projects.
+dev11://systems follows a lightweight governance model designed to support exploration, creativity, and coherence across projects.
 
 ---
 
@@ -36,4 +36,4 @@ Individuals who guide long-term vision across frameworks.
 
 ## 🜁 Evolution
 This governance model is intentionally minimal.  
-It will evolve as dev://systems grows.
+It will evolve as dev11://systems expands.
