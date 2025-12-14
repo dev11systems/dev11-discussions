@@ -1,6 +1,6 @@
 # Contributing to dev11-discussions
 
-Thanks for being part of dev://systems.  
+Thanks for being part of dev11://systems.  
 This repository serves as the *organization-wide hub* for discussions, updates, ideas, and cross-project coordination.
 
 These guidelines help keep conversations clear, collaborative, and constructive.
@@ -38,7 +38,7 @@ When opening a thread:
 ---
 
 ## 🧘 Tone & Culture
-dev://systems emphasizes:
+dev11://systems emphasizes:
 
 - Openness  
 - Systems thinking  
@@ -61,7 +61,7 @@ Org maintainers may:
 ---
 
 ## 📜 Code of Conduct
-All participation is governed by the **dev://systems Code of Conduct** (or GitHub’s default if not yet defined).
+All participation is governed by the **dev11://systems Code of Conduct** (or GitHub’s default if not yet defined).
 
 By contributing, you agree to uphold these principles.
 
